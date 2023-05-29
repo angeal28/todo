@@ -27,5 +27,5 @@ describe('Task Fetch All', () => {
 });
 
 //Testing
-const app = require('../app');
+const app = require('./app');
 const request = require('supertest');
