@@ -1,4 +1,4 @@
-Please set/create the database then run the command sequelize-cli db:migrate --env=local on the command line
+Please set/create the database then run the command sequelize-cli db:migrate --env=development on the command line
 Database: mysql
 Database Name: db_todo
 
